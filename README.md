@@ -1,5 +1,7 @@
 # Instructions-On-bachelor-progects-on-Gaokao-with-Chinese-and-Foreign-Universities-interaction
 ## 中国高考（以辽宁招生政策为准），本科中外合作项目，以及有特色的出国申请院校指南
+## Author Heyuan LIU
+## Email: heyuan.liu@epfl.ch
 
 
 
